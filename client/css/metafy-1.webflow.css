@@ -551,7 +551,7 @@
 .div-block-37 {
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   display: flex;
 }
 
@@ -698,7 +698,7 @@
   justify-content: center;
   align-items: center;
   padding-top: 40px;
-  padding-bottom: 190px;
+  padding-bottom: 150px;
   display: flex;
 }
 
@@ -926,6 +926,10 @@
   color: #000;
   font-size: 16px;
   line-height: 30px;
+}
+
+.image-7, .image-8 {
+  border-radius: 50%;
 }
 
 @media screen and (min-width: 1280px) {
