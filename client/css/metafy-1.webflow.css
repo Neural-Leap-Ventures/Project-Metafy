@@ -657,7 +657,7 @@
 }
 
 .section-2 {
-  background-image: url('../images/Rectangle-776.png');
+  background-image: url('../images/Rectangle-776_1.png');
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -891,6 +891,13 @@
   padding-bottom: 160px;
 }
 
+.section-5.new-bg {
+  background-image: url('../images/missionbg.png');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .div-block-60 {
   width: 90%;
   max-width: 1127px;
@@ -1070,6 +1077,10 @@
 
 .link-block-2 {
   color: #333;
+}
+
+.d-none {
+  display: none;
 }
 
 @media screen and (min-width: 1280px) {
